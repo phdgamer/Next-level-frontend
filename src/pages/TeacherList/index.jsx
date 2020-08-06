@@ -20,7 +20,7 @@ function TeacherList(params) {
                     </div>
 
                     <div className="input-block">
-                        <label htmlFor="time">Matérias</label>
+                        <label htmlFor="time">Matérias</label> 
                         <input type="text" name="time" />
                     </div>
                 </form>
